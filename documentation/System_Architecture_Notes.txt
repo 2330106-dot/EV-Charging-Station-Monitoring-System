@@ -1,0 +1,22 @@
+**Project:** Real-Time EV Charging Station Monitoring System
+
+**Frontend:** Flutter mobile application
+
+**Backend:** Node.js and Express REST API
+
+**Database:** MongoDB
+
+**Hardware integration:** ESP32 with Bluetooth Low Energy (BLE)
+
+**Machine-learning service:** Python, FastAPI and Random Forest Regressor
+
+**Verified functionality:**
+- User login
+- Vehicle management
+- Physical charging-slot state updates
+- Slot reservations
+- Charging queue
+- AI waiting-time prediction
+- Charging completion
+
+**ML limitation:** The current Random Forest model uses synthetic demonstration data. Its waiting-time estimates are experimental and have not been validated against real-world charging records.
